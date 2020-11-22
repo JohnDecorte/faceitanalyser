@@ -4,7 +4,7 @@ https://discord.com/api/oauth2/authorize?client_id=778403326354128916&permission
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Commands](#commands)
 
 ## General info
 Faceit Analyzer is a bot that will allow you to analyze your matches whether after or before starting a match. Several features will be added over time, for more info go to my github.
