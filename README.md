@@ -13,7 +13,7 @@ Faceit Analyzer is a bot that will allow you to analyze your matches whether aft
 Project is created with:
 * Discord.py
 * Python 3.9
-* Faceit Api
+* Faceit API
 * PyCharm 2020.2.3
 	
 ## Commands
