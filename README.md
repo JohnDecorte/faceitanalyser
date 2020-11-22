@@ -1,3 +1,6 @@
+## Discord prompt
+https://discord.com/api/oauth2/authorize?client_id=778403326354128916&permissions=0&scope=bot
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
