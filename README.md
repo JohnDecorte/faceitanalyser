@@ -13,13 +13,15 @@ Project is created with:
 * PyCharm 2020.2.3
 	
 ## Commands
-To run this project, install it locally using npm:
+Here is the list of commands you can use with the bot:
 
 ```
 !faceit help
 The list of all commands...
+
 !faceit user [username]
 Allows you to see a person's live stats...
+
 !faceit match [match_id]
 :warning: Match_id corresponds to the end of the url of your match. Example : !faceit match 1-4665934c-6df6-4438-b103-2c317e0e6335
 ```
