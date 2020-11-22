@@ -25,3 +25,6 @@ Allows you to see a person's live stats...
 !faceit match [match_id]
 Match_id corresponds to the end of the url of your match. Example : !faceit match 1-4665934c-6df6-4438-b103-2c317e0e6335
 ```
+
+![Algorithm schema](./usr.png)
+![Algorithm schema](./helps.png)
