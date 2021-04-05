@@ -4,7 +4,7 @@ import json
 from discord import channel
 from discord.ext import commands
 
-TOKEN = "Nzc4NDAzMzI2MzU0MTI4OTE2.X7Relw.QnTXHM7IkylhZhONktC_72xupm0"
+TOKEN = ""
 client = commands.Bot(command_prefix="!")
 
 
